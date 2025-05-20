@@ -45,4 +45,3 @@ Precision: 0.572
 Recall: 0.573
 T5 + MLP also showed promising results, especially in F1 Score (0.553) and Precision (0.565), but overall did not outperform the BERT-based setup.
 Word2Vec embeddings underperformed compared to the transformer-based methods (BERT and T5), showing the power of contextual embeddings for this task.
-
