@@ -24,14 +24,14 @@ google Colab for execution
 Custom modular encoder and decoder architecture
 
 V. Structure:
-
+```
 ├── data/                # Yelp review dataset
 ├── embeddings/          # Stored embeddings for each model
 ├── results/             # Classifier performance results
 ├── encoders/            # Embedding model wrappers (BERT, T5, Word2Vec)
 ├── decoders/            # Classifier wrappers (SVM, MLP, CNN, etc.)
 └── deep_learning_project.py
-
+```
 🔍 Visualization
 Evaluation and Results
 We evaluated a combination of three embedding models and six classification algorithms to determine the most effective setup for Yelp review sentiment analysis. Each model was assessed using multiple performance metrics: Accuracy, F1 Score, Precision, and Recall.
