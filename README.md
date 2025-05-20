@@ -1,6 +1,8 @@
 # Transformer-Based-Contextual-Model-for-Sentiment-Analysis
 This project performs sentiment analysis on Yelp review data using a deep learning pipeline that includes preprocessing, embedding generation, and classification using a variety of ML models.
+
 i. Processes 20,000 Yelp reviews and balances the dataset for equal star ratings.
+
 ii. Extracts features using multiple embedding techniques:
 BERT
 T5
